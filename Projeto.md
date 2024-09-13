@@ -1,10 +1,10 @@
 ## Objetivo
-Explorar e comparar a desempenho de modelos tradicionais com técnicas de machine learning e deep learning, 
+Explorar e comparar o desempenho de modelos tradicionais para séries temporais com técnicas de machine learning e deep learning, 
 oferecendo uma visão abrangente sobre suas aplicações na previsão de dados temporais. 
 O projeto também inclui a investigação das melhores práticas para decomposição de séries temporais, 
 engenharia de características (feature engineering) e identificação e tratamento de outliers. 
 O objetivo é avaliar o desempenho dos modelos clássicos em comparação com as técnicas modernas, 
-entendendo suas vantagens e desvantagens para diferentes tipos de séries, e determinar quais abordagens 
+entendendo suas vantagens e desvantagens para diferentes tipos de dados, e determinar quais abordagens 
 produzem os melhores resultados e trazem mais vantagens para aplicações reais.
 
 ## Metodologia
