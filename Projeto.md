@@ -29,10 +29,6 @@ Chollet, F.
 **Deep Learning with Python.**
 Shelter Island, NY: Manning Publications, 2018.
 
-Hochreiter, S., & Schmidhuber, J.
-**Long Short-Term Memory.**
-Neural Computation, 9(8), 1735-1780, 1997.
-
 Makridakis, S., Spiliotis, E., & Assimakopoulos, V.
 **The M4 Competition: Results, Findings, and Conclusions.**
 International Journal of Forecasting, 34(4), 802-808, 2018.
