@@ -55,7 +55,7 @@ Computational Statistics & Data Analysis, 120, 70-83, 2018.
 
  Izbicki, R. e Santos, T. M. dos. 
  **Aprendizado de máquina: uma abordagem estatística.** 
- 1ᵃ edição. 2020. 272 páginas. ISBN: 978-65-00-02410-4.
+ 1ᵃ ed. 2020. 272 páginas. ISBN: 978-65-00-02410-4.
 
  Bruce, P., Bruce, A. 
  **Estatística Prática para Ciência de Dados - 50 Conceitos Essenciais.**
@@ -63,8 +63,8 @@ Computational Statistics & Data Analysis, 120, 70-83, 2018.
 
  Harrison, M.
  **Machine Learning – Guia de Referência Rápida: Trabalhando com dados estruturados em Python**
- 1ª ed. São Paulo: Editora Novatec Ltda., 2020.
+ 1ª ed. São Paulo: Editora Novatec, 2020.
 
  Géron, A. 
- **Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras & TensorFlow.**
- 2ª ed. Rio de Janeiro: Alta Books, 2021.
+ **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow.**
+ 2ª ed. Sebastopol, CA: O'Reilly Media, Inc., 2019.
