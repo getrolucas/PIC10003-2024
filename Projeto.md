@@ -52,3 +52,19 @@ New York, NY: Springer, 2009.
 Bergmeir, C., Hyndman, R. J., & Koo, B.
 **A Note on the Validity of Cross-Validation for Evaluating Autoregressive Time Series Prediction.**
 Computational Statistics & Data Analysis, 120, 70-83, 2018.
+
+ Izbicki, R. e Santos, T. M. dos. 
+ **Aprendizado de máquina: uma abordagem estatística.** 
+ 1ᵃ edição. 2020. 272 páginas. ISBN: 978-65-00-02410-4.
+
+ Bruce, P., Bruce, A. 
+ **Estatística Prática para Ciência de Dados - 50 Conceitos Essenciais.**
+ 1ª ed. Rio de Janeiro: Editora Alta Books, 2019.
+
+ Harrison, M.
+ **Machine Learning – Guia de Referência Rápida: Trabalhando com dados estruturados em Python**
+ 1ª ed. São Paulo: Editora Novatec Ltda., 2020.
+
+ Géron, A. 
+ **Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras & TensorFlow.**
+ 2ª ed. Rio de Janeiro: Alta Books, 2021.
