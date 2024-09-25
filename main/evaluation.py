@@ -63,7 +63,8 @@ class Evaluation:
         """
         dnm = np.sum((self.y - self.y_bar) ** 2)
         nm = np.sum((self.y - self.y_pred) ** 2)
-        return 1 - np.divide(dnm, nm)
+
+        return 1 - np.divide(nm, dnm)
 
     
     def summary(self) -> pd.DataFrame:
@@ -79,3 +80,4 @@ class Evaluation:
             "R2": self._r2()
         }
         return pd.DataFrame(metrics, index=[0])
+    
