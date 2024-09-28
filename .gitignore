@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 # python caches
-src/__pycache__
+main/__pycache__
 */__pycache__
